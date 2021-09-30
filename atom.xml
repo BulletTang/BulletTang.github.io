@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://serverless-page-bucket-djn1t9kk-1307623201.cos-website.ap-hongkong.myqcloud.com/</id>
+    <id>https://bullettang.github.io</id>
     <title>Gridea</title>
-    <updated>2021-09-30T15:42:16.547Z</updated>
+    <updated>2021-09-30T16:27:19.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://serverless-page-bucket-djn1t9kk-1307623201.cos-website.ap-hongkong.myqcloud.com/"/>
-    <link rel="self" href="https://serverless-page-bucket-djn1t9kk-1307623201.cos-website.ap-hongkong.myqcloud.com/atom.xml"/>
+    <link rel="alternate" href="https://bullettang.github.io"/>
+    <link rel="self" href="https://bullettang.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://serverless-page-bucket-djn1t9kk-1307623201.cos-website.ap-hongkong.myqcloud.com/images/avatar.png</logo>
-    <icon>https://serverless-page-bucket-djn1t9kk-1307623201.cos-website.ap-hongkong.myqcloud.com/favicon.ico</icon>
+    <logo>https://bullettang.github.io/images/avatar.png</logo>
+    <icon>https://bullettang.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[个人博客文章发布测试]]></title>
-        <id>https://serverless-page-bucket-djn1t9kk-1307623201.cos-website.ap-hongkong.myqcloud.com/post/ge-ren-bo-ke-wen-zhang-fa-bu-ce-shi/</id>
-        <link href="https://serverless-page-bucket-djn1t9kk-1307623201.cos-website.ap-hongkong.myqcloud.com/post/ge-ren-bo-ke-wen-zhang-fa-bu-ce-shi/">
+        <id>https://bullettang.github.io/post/ge-ren-bo-ke-wen-zhang-fa-bu-ce-shi/</id>
+        <link href="https://bullettang.github.io/post/ge-ren-bo-ke-wen-zhang-fa-bu-ce-shi/">
         </link>
         <updated>2021-09-30T15:38:18.000Z</updated>
         <content type="html"><![CDATA[<h2 id="一级标题">一级标题</h2>
 <p>这是一个个人博客</p>
 <p>个人博客文章发布测试😙</p>
-<figure data-type="image" tabindex="1"><img src="https://serverless-page-bucket-djn1t9kk-1307623201.cos-website.ap-hongkong.myqcloud.com//post-images/1633016505136.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://bullettang.github.io/post-images/1633016505136.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://serverless-page-bucket-djn1t9kk-1307623201.cos-website.ap-hongkong.myqcloud.com/post/hello-gridea/</id>
-        <link href="https://serverless-page-bucket-djn1t9kk-1307623201.cos-website.ap-hongkong.myqcloud.com/post/hello-gridea/">
+        <id>https://bullettang.github.io/post/hello-gridea/</id>
+        <link href="https://bullettang.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
